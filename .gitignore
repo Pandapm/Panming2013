@@ -25,9 +25,18 @@ build/Release
 
 # Dependency directory
 node_modules
+fonts
 
 # Optional npm cache directory
 .npm
 
 # Optional REPL history
 .node_repl_history
+
+bootstrap.css
+bootstrap.min.css
+jquery-2.1.1.min.js
+jquery-2.1.1.js
+bootstrap.min.js
+bootstrap.js
+npm.js
